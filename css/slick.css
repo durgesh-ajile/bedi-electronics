@@ -147,6 +147,9 @@
     cursor: pointer;
     text-align: center;
 }
+#product-h2{
+    padding-top: 50px;
+}
 @media screen and (min-width: 900px) {
     .first-slide{
         margin-left: 64%;
